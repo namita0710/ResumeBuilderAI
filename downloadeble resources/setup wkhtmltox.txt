@@ -1,0 +1,8 @@
+https://wkhtmltopdf.org/downloads.html
+
+Install wkhtmltopdf using setup file and add below path to Environment variables:
+C:\Program Files\wkhtmltopdf\bin
+
+if you are still facing an issue create new file and test bellow code
+import os
+print(os.path.exists(r"C:\Program Files\wkhtmltopdf\bin\wkhtmltopdf.exe"))  # Should return True
