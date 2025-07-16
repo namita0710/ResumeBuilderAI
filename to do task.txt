@@ -1,0 +1,5 @@
+create project folder 
+create virtual environment :  python -m venv env
+make sure powershell is installed on your system\
+activate virtual environment :  .\env\Scripts\activate.ps1
+
