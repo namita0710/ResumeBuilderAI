@@ -1,5 +1,5 @@
 # ResumeBuilderAI
-https://pub.towardsai.net/create-a-smart-resume-builder-with-python-and-gpt-4-step-by-step-tutorial-39c5a092a018
+
 Step 1: Install Python (if not already installed)
 Make sure you have Python installed on your machine. You can check this by running:
 python --version
@@ -22,4 +22,6 @@ pip install streamlit markdown2 pdfkit openai==0.28
 •	pdfkit: To convert HTML content into PDF format.
 •	openai: To interact with the OpenAI GPT-4 API.
 You’ll also need wkhtmltopdf for pdfkit to work correctly. Follow the installation guide for your OS from here:https://github.com/JazzCore/python-pdfkit/wiki/Installing-wkhtmltopdf.
+
+
 
